@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bishad Shondhya
+
+This log tracks the cryptographic history and versioning for the song **Bishad Shondhya** (bishad-shondhya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T10:40:53.700267 | `v1` | `3f5e2a8811b6bb495764c6b4d6d04b8f9abd6583449a75f340244ffee0b50c71` | `d98cda86bd87126d0ca834b091d6d4800ed29b2d34759b9acf9541b8c603751a` | `2026-05-16_bishad-shondhya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

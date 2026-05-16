@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bishad-shondhya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bishad Shondhya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bishad-shondhya/) |
+| **Get License** | [Commercial Licensing for Bishad Shondhya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bishad-shondhya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3f5e2a8811b6bb495764c6b4d6d04b8f9abd6583449a75f340244ffee0b50c71` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
