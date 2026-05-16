@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bishad-shondhya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bishad Shondhya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bishad-shondhya/) |
+| **Get License** | [Official Music Licensing for Bishad Shondhya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bishad-shondhya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নীরব এই বিষাদ সন্ধ্যায় খুঁজি তোমার ছায়া
+> অন্ধকারে জড়ায় বুকে কেমন আজব মায়া
+> তোমার নেশায় পুড়ছি আমি পাগল আপন মনে
+> অপেক্ষাতে কাটে যে দিন তোমারই কারণে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
